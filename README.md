@@ -13,6 +13,11 @@ $ python3 -m venv venv
 $ source venv/bin/activate
 ```
 
+(Revised) 1. Install pip
+```
+$ sudo apt install python3-pip
+```
+
 2. Install python packages
 ```
 $ pip install -r requirements.txt
